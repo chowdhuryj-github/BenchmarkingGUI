@@ -17,4 +17,7 @@ Created a program that is able to generate benchmark results that generate graph
 * the ```indexedContain``` operation — Iterating through the list using an index (calling get()) to find a match
 * the ```contains``` operation — Determining if a value is in the list using contains()
 
+## Lab 7 | Benchmarking Analysis
+Created a word document with written Big-O analysis for all List implementations. Modified the program to have the generated pictrues saved in a folder as a .png image. The program is also modified to support command line arguments. 
+
 
