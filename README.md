@@ -1,4 +1,6 @@
 
+![Bucks](assets/banners.gif)
+
 # The Benchmarking GUI Lab Collection
 Welcome to the Benchmarking GUI Lab Collection! This repository is a data structures project that I've worked on during my freshman year at the Milwaukee School of Engineering!
 
